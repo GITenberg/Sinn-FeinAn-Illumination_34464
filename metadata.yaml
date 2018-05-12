@@ -1,0 +1,33 @@
+_repo: Sinn-FeinAn-Illumination_34464
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Hegarty, P. S. (Patrick Sarsfield)
+    alias: O'Hegarty, Patrick Sarsfield
+    birthdate: 1879
+    deathdate: 1955
+    gutenberg_agent_id: '37041'
+    url: http://www.gutenberg.org/2009/agents/37041
+description: As part of Fact Monster, The Learning Network Inc. features information
+  about Sinn Fein. The organization is a political party of the Republic of Ireland.
+  Sinn Fein is opposed to any British rule in Ireland. Sinn Fein is organized throughout
+  the 32 counties of Ireland with offices in Dublin and Belfast. The Learning Network
+  Inc. notes the sources used.
+gutenberg_issued: '2010-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34464'
+  lccn: '19012162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sinn Fein'
+- !lcc 'DA'
+- !lcsh 'Griffith, Arthur, 1872-1922'
+title: 'Sinn Fein: An Illumination'
+url: http://www.gutenberg.org/ebooks/34464
